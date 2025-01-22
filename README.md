@@ -59,7 +59,7 @@ An AI-powered content generation pipeline using CrewAI, Groq LLMs, and SerperDev
 
 5. **View Results**  
    - The final content will be saved as `newsletter.md` in the project directory.
-   ![alt text](https://github.com/sahilbishnoi26/AI-Agents-Content-Crew/blob/main/newsletter.md)
+   ![alt text](https://github.com/sahilbishnoi26/AI-Agents-Content-Crew/blob/main/newsletter.png)
 
 ## Troubleshooting
 - **Issue**: Missing Dependencies  
