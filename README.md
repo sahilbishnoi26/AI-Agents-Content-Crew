@@ -1,4 +1,4 @@
-# AI Content Workflow Pipeline
+# AI Agents Content Crew
 
 ## Description
 An AI-powered content generation pipeline using CrewAI, Groq LLMs, and SerperDevTool for internet search. Automates research, article writing, and proofreading tasks with agents designed for seamless collaboration and high-quality output.
@@ -19,7 +19,7 @@ An AI-powered content generation pipeline using CrewAI, Groq LLMs, and SerperDev
 
 ## Installation
 1. **Clone the Repository**  
-   - `git clone https://github.com/your-username/AI-Content-Workflow-Pipeline.git`  
+   - `git clone https://github.com/your-username/AI-Agents-Content-Crew.git`  
    - `cd AI-Content-Workflow-Pipeline`
 
 2. **Create and Activate a Virtual Environment**  
@@ -59,6 +59,7 @@ An AI-powered content generation pipeline using CrewAI, Groq LLMs, and SerperDev
 
 5. **View Results**  
    - The final content will be saved as `newsletter.md` in the project directory.
+   ![alt text]()
 
 ## Troubleshooting
 - **Issue**: Missing Dependencies  
