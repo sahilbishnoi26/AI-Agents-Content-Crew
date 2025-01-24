@@ -19,7 +19,7 @@ An AI-powered content generation pipeline using CrewAI, Groq LLMs, and SerperDev
 
 ## Installation
 1. **Clone the Repository**  
-   - `git clone https://github.com/your-username/AI-Agents-Content-Crew.git`  
+   - `git clone https://github.com/your-username/AI-Agents-Newsletter-Crew.git`  
    - `cd AI-Content-Workflow-Pipeline`
 
 2. **Create and Activate a Virtual Environment**  
