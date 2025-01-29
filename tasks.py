@@ -20,7 +20,7 @@ write_task = Task(
     Compose an insightful article on the topic: {topic}. Focus on the latest trends and how it is impacting the industry.
     This article should be digestible, easy to understand, engaging, and positive.
     """),  # Instructions for writing
-    expected_output="A 3-paragraph-long article on the topic: {topic}, formatted as markdown.",  # Expected output
+    expected_output="A 5-paragraph-long article on the topic: {topic}, formatted as markdown.",  # Expected output
     tools=[google_search_tool],  # Tools the agent can use
     agent=writer,  # The agent responsible for this task
     async_execution=False  # Task will run synchronously
@@ -33,7 +33,7 @@ proof_read_task = Task(
     It should not have any mistakes and should be very easy to digest. Make sure to include sources of the information where they come from.
     Also, write 3 sources for further studying of the topic. This article should be digestible, easy to understand, engaging, and positive.
     """),  # Instructions for proofreading
-    expected_output="A 3-paragraph-long article on the topic: {topic}, formatted as markdown with all the relevant sources.",  # Expected output
+    expected_output="A 5-paragraph-long article on the topic: {topic}, formatted as markdown with all the relevant sources.",  # Expected output
     tools=[google_search_tool],  # Tools the agent can use
     agent=proof_reader,  # The agent responsible for this task
     async_execution=False,  # Task will run synchronously

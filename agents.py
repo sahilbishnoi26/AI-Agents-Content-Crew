@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Initialize the ChatGroq language model with specific parameters
-model = "groq/llama-3.1-70b-versatile"  # Specify the model to be used
+model = "groq/deepseek-r1-distill-llama-70b" # "groq/llama-3.1-70b-versatile"  # Specify the model to be used
 llm = ChatGroq(
     model=model,  # Use the selected model
     verbose=True,  # Enable detailed logging for debugging
