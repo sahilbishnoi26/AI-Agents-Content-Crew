@@ -12,10 +12,10 @@ An AI-powered content generation pipeline using CrewAI, Groq LLMs, and SerperDev
 - **Output Files**: Saves final articles as markdown files.
 
 ## Technologies Used
+- **UPDATE: DeepSeek-R1-distill-llama-70b**: Uses State of the Art LLM via Groq API
 - **CrewAI**: Framework for agent orchestration and task management.
 - **Groq LLM**: Language model for natural language processing.
 - **SerperDevTool**: Enables internet search capabilities.
-- **Python**: Primary programming language.
 
 ## Installation
 1. **Clone the Repository**  
